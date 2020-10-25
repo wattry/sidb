@@ -1,0 +1,2 @@
+# sidb
+A simplified IndexedDB
